@@ -1,1 +1,11 @@
-# GitHub Upload TODO for Hotel Booking Project\n\n- [ ] 1. git init\n- [ ] 2. git add .\n- [ ] 3. git commit -m \"Initial commit: Complete Hotel Booking React-Node.js project\"\n- [ ] 4. git branch -M main\n- [ ] 5. git remote add origin https://github.com/pepsi1231173/HOTELBOOKING-React-NodeJs-.git\n- [ ] 6. git push -u origin main\n- [ ] 7. Verify upload\n\nStatus: Starting Git setup...
+# GitHub Upload TODO for Hotel Booking Project
+
+- [x] 1. git init
+- [x] 2. git add .
+- [x] 3. git commit -m \"Initial commit: Complete Hotel Booking React-Node.js project\"
+- [x] 4. git branch -M main
+- [x] 5. git remote add origin https://github.com/pepsi1231173/HOTELBOOKING-React-NodeJs-.git
+- [ ] 6. git push -u origin main
+- [ ] 7. Verify upload
+
+Status: Push rejected (remote has content). Will pull --allow-unrelated-histories, commit TODO update, then push...
